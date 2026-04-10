@@ -5,6 +5,8 @@ edition = "2024"
 description = "A Rust crate for extracting embedded preview images from .clip files."
 license = "MIT OR Apache-2.0"
 documentation = "https://docs.rs/clip2preview"
+homepage = "https://github.com/tgim4253/clip2preview"
+repository = "https://github.com/tgim4253/clip2preview"
 keywords = ["clip", "preview", "thumbnail", "sqlite"]
 categories = ["multimedia::images", "parser-implementations"]
 
